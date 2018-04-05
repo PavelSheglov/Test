@@ -4,8 +4,10 @@
 #include "stdafx.h"
 
 
-int main()
+void main()
 {
-    return 0;
+	printf("Hello, world!\n");
+	printf("Press any key for exit...\n");
+	_getch();
 }
 
