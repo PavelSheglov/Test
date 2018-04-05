@@ -6,7 +6,12 @@
 
 void main()
 {
-	char name[20] = "World";
+	char name[80];
+	printf("\n-----------------------------------------\n");
+	printf("\t\tINTRODUCTION INTO GIT");
+	printf("\n-----------------------------------------\n");
+	printf("Enter your name:");
+	scanf("%s", name);
 	printf("\n-----------------------------------------\n");
 	printf("Hello, %s! This is test git program.\n", name);
 	printf("\n-----------------------------------------\n");
