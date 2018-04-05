@@ -6,7 +6,7 @@
 
 void main()
 {
-	printf("Hello, world!\n");
+	printf("Hello, world! This is test git program.\n");
 	printf("Press any key for exit...\n");
 	_getch();
 }
