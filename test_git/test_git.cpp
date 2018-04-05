@@ -7,6 +7,9 @@
 void main()
 {
 	char name[80];
+	printf("\n-----------------------------------------\n");
+	printf("\t\tINTRODUCTION INTO GIT");
+	printf("\n-----------------------------------------\n");
 	printf("Enter your name:");
 	scanf("%s", name);
 	printf("\n-----------------------------------------\n");
